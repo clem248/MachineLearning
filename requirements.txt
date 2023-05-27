@@ -1,0 +1,8 @@
+torch
+fire
+sentencepiece
+tqdm
+transformers==4.27.1
+pyarrow
+pandas
+accelerate
